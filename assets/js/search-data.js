@@ -429,13 +429,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-i-remotely-presented-my-paper-titled-edge-up-enhanced-dynamic-gnn-ensemble-for-unfollow-prediction-in-online-social-networks-at-international-conference-on-advances-in-social-networks-analysis-and-mining-asonam",
           title: 'I remotely presented my paper titled “EDGE-UP: Enhanced Dynamic GNN Ensemble for Unfollow...',
+          description: "",
+          section: "News",},{id: "news-i-successfully-passed-my-qualifying-exam-sparkles-smile",
+          title: 'I successfully passed my Qualifying Exam! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-i-presented-our-paper-titled-advancing-tabular-data-classification-with-graph-neural-networks-a-random-forest-proximity-method-at-2024-ieee-international-conference-on-big-data-bigdata",
           title: 'I presented our paper titled “Advancing Tabular Data Classification with Graph Neural Networks:...',
