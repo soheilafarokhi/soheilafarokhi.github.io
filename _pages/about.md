@@ -27,3 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am a Ph.D. candidate in the Department of Computer Science at Utah State University, advised by Dr. Hamid Karimi. My research focuses on machine learning with graphs, particularly Graph Neural Networks (GNNs). Before joining Utah State University, I earned my master’s degree from Sharif University of Technology in Tehran, Iran, in 2018, where I worked on computational geometry, specifically visibility graphs, under the supervision of Dr. Alireza Zarei.
+
+Useful links can be found at the bottom of this page.
