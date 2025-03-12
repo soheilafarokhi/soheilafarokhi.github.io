@@ -24,13 +24,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Utah State University",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2022-08-15",
+      "endDate": "Present",
+      "summary": "Conducting research on graph representation learning and its applications in educational technology, social network analysis, and recommender systems.",
+      "highlights": []
+    },
+    {
+      "name": "Utah State University",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2024-01-06",
+      "endDate": "Present",
+      "summary": "Assisting with the Graph Mining course.",
+      "highlights": []
     }
   ],
   "volunteer": [
