@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Soheila Farokhi",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "soheila.farokhi@usu.edu",
+    "phone": "",
+    "url": "https://soheilafarokhi.github.io/",
+    "summary": "A PhD Candiate in Computer Science",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Logan",
       "countryCode": "US",
-      "region": "California"
+      "region": "Utah"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "soheila-farokhi",
+        "url": "https://www.linkedin.com/in/soheila-farokhi"
       }
     ]
   },
