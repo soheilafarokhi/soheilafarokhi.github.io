@@ -159,19 +159,19 @@
   "references": [
     {
       "name": "Dr. Hamid Karimi",
-      "url": "https://dsa.cs.usu.edu/Hamid.html"
+      "url": "https://dsa.cs.usu.edu/Hamid.html",
       "icon": "fa-solid fa-tag",
       "reference": "PhD Advisor."
     },
     {
       "name": "Dr. Xiaojun Qi",
-      "url": "https://www.usu.edu/cs/people/XiaojunQi/"
+      "url": "https://www.usu.edu/cs/people/XiaojunQi/",
       "icon": "fa-solid fa-tag",
       "reference": "PhD Co-advisor."
     },
     {
       "name": "Dr. Alireza Zarei",
-      "url": "https://sharif.ir/~zarei/"
+      "url": "https://sharif.ir/~zarei/",
       "icon": "fa-solid fa-tag",
       "reference": "MSc Advisor"
     }
