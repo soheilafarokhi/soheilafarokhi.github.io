@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully passed my Qualifying Exam! :sparkles: :smile:
+I successfully passed my Qualifying Exam! :sparkles:
