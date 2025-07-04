@@ -124,6 +124,12 @@
   ],
   "publications": [
     {
+      "name": "Application of Gemini in Public Health Amid the Artificial Intelligence Era",
+      "publisher": "IEEE Engineering Management Review",
+      "releaseDate": "2025-06-09",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11028593"
+    },
+    {
       "name": "Computing Boundary Cycle of a Pseudo-Triangle Polygon from Its Visibility Graph",
       "publisher": "Topics in Theoretical Computer Science: Third IFIP WG 1.8 International Conference",
       "releaseDate": "2020-08-28",
