@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper titled "TAWRMAC: A Novel Dynamic Graph Representation Learning Method" was accepted to The ACM Web Conference (TheWebConf), 2026. :partypopper:
+My paper titled "TAWRMAC: A Novel Dynamic Graph Representation Learning Method" was accepted to The ACM Web Conference (TheWebConf), 2026. 🎉:
