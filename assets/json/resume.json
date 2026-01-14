@@ -6,10 +6,7 @@
     "email": "soheila.farokhi@usu.edu",
     "phone": "",
     "url": "https://soheilafarokhi.github.io/",
-    "summary": "Ph.D. candidate in Computer Science, focusing on graph machine learning (including temporal/dynamic graphs).
-Currently fine-tuning a Graph Language Model (GLM) that fuses graph structure with LLMs for classification, link
-prediction, and reasoning on text-attributed graphs, trained with multi-GPU and batched inference; prior work
-includes large-scale Python/SQL pipelines and user-behaviour prediction.",
+    "summary": "Ph.D. candidate in Computer Science, focusing on graph machine learning (including temporal/dynamic graphs). Currently fine-tuning a Graph Language Model (GLM) that fuses graph structure with LLMs for classification, link prediction, and reasoning on text-attributed graphs, trained with multi-GPU and batched inference; prior work includes large-scale Python/SQL pipelines and user-behaviour prediction.",
     "location": {
       "address": "",
       "postalCode": "",
