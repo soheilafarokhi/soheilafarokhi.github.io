@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - DSAatUSU/tawrmac
   - DSAatUSU/RF-GNN
   - DSAatUSU/edge-up
   - DSAatUSU/MOOPer_grade_prediction
+
