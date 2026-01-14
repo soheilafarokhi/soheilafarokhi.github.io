@@ -6,7 +6,10 @@
     "email": "soheila.farokhi@usu.edu",
     "phone": "",
     "url": "https://soheilafarokhi.github.io/",
-    "summary": "A PhD Candiate in Computer Science",
+    "summary": "Ph.D. candidate in Computer Science, focusing on graph machine learning (including temporal/dynamic graphs).
+Currently fine-tuning a Graph Language Model (GLM) that fuses graph structure with LLMs for classification, link
+prediction, and reasoning on text-attributed graphs, trained with multi-GPU and batched inference; prior work
+includes large-scale Python/SQL pipelines and user-behaviour prediction.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,13 +26,24 @@
     ]
   },
   "work": [
+
+    {
+      "name": "Utah State University",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2026-01-01",
+      "endDate": "Present",
+      "summary": "Assisting with the Graph Mining course.",
+      "highlights": []
+    },
+    
     {
       "name": "Utah State University",
       "position": "Graduate Teaching Assistant",
       "url": "",
       "startDate": "2025-08-25",
-      "endDate": "Present",
-      "summary": "Assisting with the Intoduction to Data Analysis course.",
+      "endDate": "2025-12-31",
+      "summary": "Assisted with the Intoduction to Data Analysis course.",
       "highlights": []
     },
     {
@@ -47,7 +61,7 @@
       "url": "",
       "startDate": "2025-01-01",
       "endDate": "2025-05-02",
-      "summary": "Assisting with the Graph Mining course.",
+      "summary": "Assisted with the Graph Mining course.",
       "highlights": []
     },
     {
@@ -56,7 +70,7 @@
       "url": "",
       "startDate": "2024-08-29",
       "endDate": "2024-12-31",
-      "summary": "Assisting with the Computer Vision: Foundations and Applications course.",
+      "summary": "Assisted with the Computer Vision: Foundations and Applications course.",
       "highlights": []
     },
     {
@@ -65,7 +79,7 @@
       "url": "",
       "startDate": "2023-08-29",
       "endDate": "2023-12-31",
-      "summary": "Assisting with the Computer Vision: Foundations and Applications course.",
+      "summary": "Assisted with the Computer Vision: Foundations and Applications course.",
       "highlights": []
     },
     {
@@ -251,7 +265,8 @@
       "keywords": [
         "Graph Neural Networks",
         "Graph Representation Learning",
-        "Dynamic Graphs"
+        "Dynamic Graphs",
+        "Recommender Systems"
       ]
     }
   ],
