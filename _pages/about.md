@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in the Department of Computer Science at Utah State University.
+subtitle: PhD Candidate in the School of Computing at Utah State University.
 
 profile:
   align: right
@@ -26,8 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. candidate in the Department of Computer Science at Utah State University, advised by Dr. Hamid Karimi. My research focuses on machine learning with graphs, particularly Graph Neural Networks (GNNs). Before joining Utah State University, I earned my master’s degree from Sharif University of Technology in Tehran, Iran, in 2018, where I worked on computational geometry, specifically visibility graphs, under the supervision of Dr. Alireza Zarei.
+I am a Ph.D. candidate in the School of Computing at Utah State University, advised by Dr. Hamid Karimi. My research centers on graph machine learning (including temporal/dynamic graphs) and foundation-model fine-tuning. Before joining Utah State University, I earned my master’s degree from Sharif University of Technology in Tehran, Iran, in 2018, where I worked on computational geometry, specifically visibility graphs, under the supervision of Dr. Alireza Zarei.
 
-My current research explores novel GNN architectures, dynamic graph representation learning, and their applications in areas such as student performance prediction and modeling social network behavior. I am particularly interested in developing explainable and efficient graph-based machine learning models.
+I’m currently fine-tuning a Graph Language Model (GLM) that fuses graph structure with LLMs for classification, link prediction, and reasoning on text-attributed graphs; prior work includes large-scale Python/SQL pipelines and user-behavior prediction.
 
 Useful links can be found at the bottom of this page.
