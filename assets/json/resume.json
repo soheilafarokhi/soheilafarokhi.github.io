@@ -56,6 +56,24 @@
       "name": "Utah State University",
       "position": "Graduate Teaching Assistant",
       "url": "",
+      "startDate": "2026-08-31",
+      "endDate": "Present",
+      "summary": "Assisting with the Introduction to Data Analysis course.",
+      "highlights": []
+    },
+    {
+      "name": "Pinterest, Inc.",
+      "position": "Machine Learning Engineer Intern",
+      "url": "",
+      "startDate": "2026-05-18",
+      "endDate": "2026-08-07",
+      "summary": "Worked with the Ads Intelligence team to improve conversion predictions.",
+      "highlights": []
+    },
+    {
+      "name": "Utah State University",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
       "startDate": "2025-01-01",
       "endDate": "2025-05-02",
       "summary": "Assisted with the Graph Mining course.",
@@ -67,15 +85,6 @@
       "url": "",
       "startDate": "2024-08-29",
       "endDate": "2024-12-31",
-      "summary": "Assisted with the Computer Vision: Foundations and Applications course.",
-      "highlights": []
-    },
-    {
-      "name": "Utah State University",
-      "position": "Graduate Teaching Assistant",
-      "url": "",
-      "startDate": "2023-08-29",
-      "endDate": "2023-12-31",
       "summary": "Assisted with the Computer Vision: Foundations and Applications course.",
       "highlights": []
     },
